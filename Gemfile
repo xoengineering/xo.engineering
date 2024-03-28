@@ -8,6 +8,11 @@ gem 'jekyll-feed'
 gem 'jekyll-paginate-v2'
 gem 'minima' # default jekyll theme
 
+# ruby 3.3 deprecations from stdlib, depended on by jekyll, et al
+gem 'base64'
+gem 'bigdecimal'
+gem 'csv'
+
 group :development, :test do
   # codestyle guide and linting
   gem 'rubocop', require: false
