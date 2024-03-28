@@ -1,1 +1,5 @@
+# macOS' Finder metadata file
 .DS_Store
+
+# Jekyll's built site folder
+_site
