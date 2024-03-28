@@ -1,3 +1,3 @@
 # Website
 
-Static site generator for https://xo.engineering
+Website for https://xo.engineering
