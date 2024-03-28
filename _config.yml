@@ -7,6 +7,6 @@ instagram_username: xoengineering
 youtube_username: "@xoengineering"
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed

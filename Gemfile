@@ -6,7 +6,7 @@ ruby File.read('.ruby-version').chomp
 gem 'jekyll'
 gem 'jekyll-feed'
 gem 'jekyll-paginate-v2'
-gem 'minima' # default jekyll theme
+gem 'env'
 
 # ruby 3.3 deprecations from stdlib, depended on by jekyll, et al
 gem 'base64'
